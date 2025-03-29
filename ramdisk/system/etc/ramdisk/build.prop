@@ -1,0 +1,22 @@
+####################################
+# from generate-common-build-props
+# These properties identify this partition image.
+####################################
+ro.product.bootimage.brand=XREAL
+ro.product.bootimage.device=X4000
+ro.product.bootimage.manufacturer=XREAL
+ro.product.bootimage.model=X4000
+ro.product.bootimage.name=X4000
+ro.bootimage.build.date=Fri Jun 21 00:58:18 CST 2024
+ro.bootimage.build.date.utc=1718902698
+ro.bootimage.build.fingerprint=XREAL/X4000/X4000:12/SKQ1.231214.001/X4000_X112_240621_ROW:user/release-keys
+ro.bootimage.build.id=SKQ1.231214.001
+ro.bootimage.build.tags=release-keys
+ro.bootimage.build.type=user
+ro.bootimage.build.version.incremental=X4000_X112_240621_ROW
+ro.bootimage.build.version.release=12
+ro.bootimage.build.version.release_or_codename=12
+ro.bootimage.build.version.sdk=32
+# Auto-added by post_process_props.py
+persist.sys.usb.config=none
+# end of file
